@@ -1,0 +1,12 @@
+{
+  "name": "test-debugger-sourcemap-parent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "(cd ./test-debugger-sourcemap && yarn start)"
+  },
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
+}
